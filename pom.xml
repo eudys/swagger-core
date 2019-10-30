@@ -598,7 +598,7 @@
 
         <felix-version>3.3.0</felix-version>
         <servlet-api-version>2.5</servlet-api-version>
-        <jersey-version>1.13</jersey-version>
+        <jersey-version>1.18</jersey-version>
         <jersey2-version>2.25.1</jersey2-version>
         <jackson-version>2.9.10</jackson-version>
         <logback-version>1.2.3</logback-version>
